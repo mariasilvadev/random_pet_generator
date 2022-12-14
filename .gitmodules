@@ -1,0 +1,3 @@
+[submodule "terraform-random-module"]
+	path = terraform-random-module
+	url = https://github.com/aaabdelgany/terraform-random-module
