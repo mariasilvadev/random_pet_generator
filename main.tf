@@ -25,7 +25,7 @@ resource "random_string" "random_word_2" {
 
 
 resource "random_string" "random_word_3" {
-  length           = 12
+  length           = 11
 }
 
 
