@@ -20,7 +20,7 @@ resource "random_string" "random_word" {
 }
 
 resource "random_string" "random_word_2" {
-  length           = 11
+  length           = 10
 }
 
 
