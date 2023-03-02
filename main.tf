@@ -12,7 +12,7 @@ provider "random" {
 }
 
 resource "random_pet" "pet" {
-  length           = var.word-count
+  length           = var.word-count 
 }
 
 resource "random_string" "random_word" {
