@@ -15,7 +15,7 @@ resource "random_pet" "pet" {
   length           = var.word-count
 }
 
-resource "random_string" "random_word" {
+resource "random_string" "random_word_1" {
   length           = var.word-length
 }
 
