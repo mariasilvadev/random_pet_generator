@@ -11,7 +11,7 @@ provider "random" {
   # Configuration options
 }
 
-resource "random_pet" "pet" {
+resource "random_pet_1" "pet" {
   length           = var.word-count
 }
 
