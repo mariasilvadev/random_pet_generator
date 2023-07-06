@@ -5,6 +5,6 @@ variable "word-count" {
 
 variable "word-length" {
   type = number
-  default = 5
+  default = 9
   description = "length of random string which i called a word"
 }
